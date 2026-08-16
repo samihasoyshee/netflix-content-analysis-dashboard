@@ -60,5 +60,6 @@ Download `Netflix Content Analysis Dashboard.pbix` and open it in [Power BI Desk
 
 ## Screenshot
 
-<img width="1278" height="717" alt="Screenshot 2026-08-16 220900" src="https://github.com/user-attachments/assets/99760da1-ec0f-4019-a520-8555e1450a2b" />
+<img width="1276" height="716" alt="Screenshot 2026-08-16 224055" src="https://github.com/user-attachments/assets/a62fd8d4-7bd4-4e3e-a7cd-e8005b3807f5" />
+
 
